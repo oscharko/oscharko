@@ -29,7 +29,7 @@
             <div class="profile-card-block">
               <div class="profile-img">
                 <a href="#">
-                  <img src="@/assets/img/profile_img.jpg" alt="image" />
+                  <img src="@/assets/logo.svg" alt="image" />
                 </a>
               </div>
               <a href="#">
@@ -1381,7 +1381,7 @@ pre.wp-block-verse {
 }
 
 .social-links ul li a {
-  color: #a6a7a8;
+  color: #4DBA87;
   border-radius: 20px;
   font-size: 16px;
   padding: 0;
@@ -1710,21 +1710,10 @@ pre.wp-block-verse {
 .profile-card-block .profile-img,
 .profile-card-block .profile-img img {
   height: auto;
-  max-height: 120px;
+  max-height: 150px;
   width: auto;
-  max-width: 120px;
-  border-radius: 150px;
-  margin: 0 auto;
-}
-
-.profile-card-block .profile-img,
-.profile-card-block .profile-img img {
-  height: auto;
-  max-height: 120px;
-  width: auto;
-  max-width: 120px;
-  border-radius: 150px;
-  margin: 0 auto;
+  max-width: 150px;
+  margin: -8px auto;
 }
 
 .profile-card h3.site-title {
