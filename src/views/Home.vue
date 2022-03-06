@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.svg" width="300">
+    <img alt="oscharko logo" src="../assets/logo.svg" width="300">
     <HelloWorld msg="Welcome to oscharko!"/>
   </div>
 </template>
