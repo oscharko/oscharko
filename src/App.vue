@@ -25,7 +25,7 @@
                 </a>
               </div>
               <a href="#">
-                <h3 class="site-title">Oliver<br />Scharkowski</h3>
+                <h3 class="site-title">Oliver&shy;Scharkowski</h3>
               </a>
               <div class="social-links">
                 <ul>
@@ -87,7 +87,7 @@
 
                     <div class="col-sm-12 col-md-6 col-lg-6">
                       <div class="home-text">
-                        <h1><span>Oliver Scharkowski</span></h1>
+                        <h1><span>Oliver<br/>Scharkowski</span></h1>
                         <div class="home-text-subtitle">
                           <div class="owl-carousel text-rotation">
                             <div class="item">
