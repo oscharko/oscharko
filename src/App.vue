@@ -87,19 +87,30 @@
 
                     <div class="col-sm-12 col-md-6 col-lg-6">
                       <div class="home-text">
-                        <div class="owl-carousel text-rotation">
-                          <div class="item">
-                            <h4>Ingenieur</h4>
-                          </div>
-                          <div class="item">
-                            <h4>Frontend-Entwicklung</h4>
-                          </div>
-                          <div class="item">
-                            <h4>Backend-Entwicklung</h4>
+                        <h1><span>Oliver Scharkowski</span></h1>
+                        <div class="home-text-subtitle">
+                          <div class="owl-carousel text-rotation">
+                            <div class="item">
+                              <span>Maschinenbauingenieur</span>
+                            </div>
+                            <div class="item">
+                              <span>Kenntnisse in der Digitalisierung</span>
+                            </div>
+                            <div class="item">
+                              <span
+                                >Kenntnisse in der Künstliche Intelligenz</span
+                              >
+                            </div>
+                            <div class="item">
+                              <span
+                                >Kenntnisse in der Frontend-Entwicklung</span
+                              >
+                            </div>
+                            <div class="item">
+                              <span>Kenntnisse in der Backend-Entwicklung</span>
+                            </div>
                           </div>
                         </div>
-
-                        <h1><span>Oliver Scharkowski</span></h1>
                         <p>
                           Ich bin ein Mensch der seine Welt verstehen will und
                           sie nicht nur als gegeben hinnimmt, ein Mensch der
@@ -1378,7 +1389,7 @@ pre.wp-block-verse {
     max-height: calc(80vh - 20px);
     min-height: calc(80vh - 20px);
     text-align: center;
-    padding: 0;
+    padding: 0 0 0 0;
     margin-right: 10px;
     overflow: auto;
     border-top-left-radius: 16px;
@@ -4647,19 +4658,28 @@ a.post-thumbnail:hover {
   margin-bottom: 10px;
 }
 
-.home-page-second-style .home-photo {
-  display: block;
-  position: relative;
-  width: 100%;
-  padding-bottom: calc(100% - 36px);
-  background-color: #fff;
-  border-radius: 1000px;
-  border: 18px solid #fff;
-  overflow: hidden;
-  -webkit-box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.1);
-  -moz-box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.1);
-  box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.1);
+.home-text-subtitle {
+  font-size: 17px;
+  color: #aaa;
+  font-weight: 300;
+  text-transform: uppercase;
+  margin-top: -25px;
+  padding-bottom: 20px;
 }
+
+// .home-page-second-style .home-photo {
+//   display: block;
+//   position: relative;
+//   width: 100%;
+//   padding-bottom: calc(100% - 36px);
+//   background-color: #fff;
+//   border-radius: 1000px;
+//   border: 18px solid #fff;
+//   overflow: hidden;
+//   -webkit-box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.1);
+//   -moz-box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.1);
+//   box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.1);
+// }
 
 .home-page-second-style .home-buttons {
   margin-top: 27px;
@@ -4794,11 +4814,11 @@ a.post-thumbnail:hover {
   height: auto;
   display: block;
   position: absolute;
-  top: -18px;
-  bottom: -18px;
+  top: -5px;
+  bottom: -5px;
   width: auto;
-  left: -18px;
-  right: -18px;
+  left: -5px;
+  right: -5px;
 }
 
 .home-page-third-style .without-padding {
@@ -4855,6 +4875,7 @@ a.post-thumbnail:hover {
   }
 
   .home-page-third-style .home-photo {
+    top: 10px;
     min-height: calc(50vh - 20px);
   }
 
