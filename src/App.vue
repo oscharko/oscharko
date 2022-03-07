@@ -25,7 +25,7 @@
                 </a>
               </div>
               <a href="#">
-                <h3 class="site-title">Oliver&shy;Scharkowski</h3>
+                <h3 class="site-title">Oliver<br />Scharkowski</h3>
               </a>
               <div class="social-links">
                 <ul>
