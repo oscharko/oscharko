@@ -11,7 +11,7 @@
           </div> -->
           <div class="header-titles">
             <a href="#">
-              <h2>OS</h2>
+              <img width="50" src="@/assets/safari-pinned-tab.svg" alt="image" />
             </a>
           </div>
         </div>
