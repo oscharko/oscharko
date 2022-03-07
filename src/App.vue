@@ -1,22 +1,14 @@
 <template>
-  <div class="lm-animated-bg"></div>
-  <!-- Loading animation -->
-  <!-- <div class="preloader">
-    <div class="preloader-animation">
-      <div class="preloader-spinner"></div>
-    </div>
-  </div> -->
-  <!-- /Loading animation -->
   <div class="page-wrapper bg-move-effect">
     <div class="page-content site-content">
       <!-- Site Header -->
       <header id="site_header" class="header">
         <div class="header-content">
-          <div class="menu-button">
+          <!-- <div class="menu-button">
             <span></span>
             <span></span>
             <span></span>
-          </div>
+          </div> -->
           <div class="header-titles">
             <a href="#">
               <h2>OS</h2>
@@ -75,6 +67,88 @@
           </ul>
         </div>
       </header>
+      <!-- Page Content -->
+      <div
+        class="content-area single-page-area"
+        data-animation="animated-section-rotateRoomBottomIn"
+      >
+        <div class="single-page-content">
+          <div class="content-wrapper">
+            <!-- About Me Section -->
+            <section>
+              <div class="section-content vcentered home-page-third-style">
+                <div id="home_content_1" class="home-content">
+                  <div class="row flex-v-align">
+                    <div class="col-sm-12 without-padding col-md-6 col-lg-6">
+                      <div class="home-photo">
+                        <div class="hp-inner"></div>
+                      </div>
+                    </div>
+
+                    <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="home-text">
+                        <div class="owl-carousel text-rotation">
+                          <div class="item">
+                            <h4>Ingenieur</h4>
+                          </div>
+                          <div class="item">
+                            <h4>Frontend-Entwicklung</h4>
+                          </div>
+                          <div class="item">
+                            <h4>Backend-Entwicklung</h4>
+                          </div>
+                        </div>
+
+                        <h1><span>Oliver Scharkowski</span></h1>
+                        <p>
+                          Ich bin ein Mensch der seine Welt verstehen will und
+                          sie nicht nur als gegeben hinnimmt, ein Mensch der
+                          davon überzeugt ist das der Wille stärker ist als das
+                          Wissen — denn Wissen ist zwar immer noch begrenzt,
+                          aber es war noch nie so einfach Wissenslücken zu
+                          schließen — man muss es nur wollen!<br /><br />
+                          Ich möchte Lösungen entwickeln und umsetzen und nicht
+                          nur über die Probleme reden und sie dokumentieren,
+                          deswegen fühle ich mich auch in einem agilen Umfeld
+                          wohl und zu Hause.<br /><br />
+                          Ich suche ein Umfeld wo "Think Different" gewollt ist
+                          und das Argument "das haben wir immer so gemacht" nur
+                          schwerer wiegt, wenn es tatsächlich schon das
+                          Bestmögliche ist!
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <!-- /About Me Section -->
+          </div>
+        </div>
+
+        <!-- /Footer -->
+        <footer class="site-footer clearfix">
+          <!-- <div class="footer-social">
+            <ul class="footer-social-links">
+              <li>
+                <a href="#" target="_blank">Twitter</a>
+              </li>
+              <li>
+                <a href="#" target="_blank">Facebook</a>
+              </li>
+              <li>
+                <a href="#" target="_blank">Instagram</a>
+              </li>
+            </ul>
+          </div> -->
+
+          <div class="footer-copyrights">
+            <p>© 2022 all rights reserved by oscharko</p>
+          </div>
+        </footer>
+        <!-- /Footer -->
+      </div>
+      <!-- /Page Content -->
     </div>
   </div>
 </template>
@@ -169,7 +243,7 @@ body.ajax-page-visible {
 }
 
 a {
-  color: #4DBA87;
+  color: #4dba87;
   text-decoration: none;
   outline: none;
   -webkit-transition: all 0.3s ease-in-out;
@@ -355,7 +429,7 @@ textarea.form-control:focus {
   top: 0;
   opacity: 0;
   background: transparent !important;
-  border: 1px solid #4DBA87;
+  border: 1px solid #4dba87;
   border-right-width: 0;
   height: 100%;
   -webkit-transition: all 0.3s ease-in-out;
@@ -390,7 +464,7 @@ textarea.form-control:focus {
 
 .form-group:not(.form-group-checkbox) .form-control:focus ~ label,
 .form-group.form-group-focus:not(.form-group-checkbox) .form-control ~ label {
-  color: #4DBA87;
+  color: #4dba87;
   top: -20px;
   left: 0;
   z-index: 1;
@@ -460,7 +534,7 @@ input[type='text'],
 }
 
 .form-group-with-icon.form-group-focus i {
-  color: #4DBA87;
+  color: #4dba87;
 }
 
 .form-group.form-group-w-checkbox {
@@ -515,7 +589,7 @@ input[type='text'],
   top: 0;
   opacity: 0;
   background: transparent;
-  border: 2px solid #4DBA87;
+  border: 2px solid #4dba87;
   border-right-width: 0;
   height: 100%;
   -webkit-transition: all 0.3s ease-in-out;
@@ -610,7 +684,7 @@ input[type='submit'],
   border: 0;
   color: #fff;
   text-shadow: none;
-  background-color: #4DBA87;
+  background-color: #4dba87;
   border-radius: 0;
   font-family: 'Poppins', Helvetica, sans-serif;
   -webkit-transition: all 0.3s ease-in-out;
@@ -674,11 +748,11 @@ button.mfp-arrow:focus {
 /* / buttons */
 
 .border-top {
-  border-top: 2px solid #4DBA87;
+  border-top: 2px solid #4dba87;
 }
 
 .border-bottom {
-  border-bottom: 2px solid #4DBA87;
+  border-bottom: 2px solid #4dba87;
 }
 
 /* Footer */
@@ -1040,7 +1114,7 @@ pre.wp-block-verse {
   width: 52px;
   height: 52px;
   margin: 100px auto;
-  background-color: #4DBA87;
+  background-color: #4dba87;
 
   border-radius: 100%;
   -webkit-animation: sk-scaleout 1s infinite ease-in-out;
@@ -1082,7 +1156,7 @@ pre.wp-block-verse {
 }
 
 .ps:hover > .ps__scrollbar-y-rail:hover > .ps__scrollbar-y {
-  background-color: #4DBA87;
+  background-color: #4dba87;
 }
 
 .ps > .ps__scrollbar-y-rail {
@@ -1297,7 +1371,7 @@ pre.wp-block-verse {
   .header-content {
     position: relative;
     display: inline-block;
-    background-color: #4DBA87;
+    background-color: #4dba87;
     // float: left;
     width: 70px;
     height: 100%;
@@ -1381,7 +1455,7 @@ pre.wp-block-verse {
 }
 
 .social-links ul li a {
-  color: #4DBA87;
+  color: #4dba87;
   border-radius: 20px;
   font-size: 16px;
   padding: 0;
@@ -1409,7 +1483,7 @@ pre.wp-block-verse {
 
 .header-buttons .btn-primary:hover {
   background-color: #fff;
-  color: #4DBA87;
+  color: #4dba87;
   border-color: #fff;
 }
 
@@ -1522,7 +1596,7 @@ pre.wp-block-verse {
 /* Main Menu */
 .site-menu {
   position: absolute;
-  background-color: #fff;
+  background-color: #fcfcfc;
   height: calc(80vh - 20px);
   width: 100vw;
   max-width: 380px;
@@ -1771,7 +1845,7 @@ pre.wp-block-verse {
 
 .page-title h1 span,
 .page-title h2 span {
-  color: #4DBA87;
+  color: #4dba87;
 }
 
 .page-title .page-subtitle {
@@ -1984,7 +2058,7 @@ h3.comment-reply-title {
 
 .block-title h2 span,
 h3.comment-reply-title span {
-  color: #4DBA87;
+  color: #4dba87;
 }
 
 .block-title h2:after,
@@ -1995,7 +2069,7 @@ h3.comment-reply-title:after,
   position: absolute;
   content: '';
   width: 24px;
-  background-color: #4DBA87;
+  background-color: #4dba87;
   height: 2px;
   bottom: 0;
 }
@@ -2147,7 +2221,7 @@ ul.social-links li:last-child a {
   font-size: 48px;
   line-height: 80px;
   color: #fff;
-  background-color: #4DBA87;
+  background-color: #4dba87;
   width: 80px;
   height: 80px;
   border-radius: 100px;
@@ -2841,7 +2915,7 @@ ul.social-links li:last-child a {
 }
 
 .portfolio-page-nav > div.nav-item a:hover {
-  background-color: #4DBA87;
+  background-color: #4dba87;
   color: #fff;
 }
 
@@ -2912,7 +2986,7 @@ ul.social-links li:last-child a {
 }
 
 .project-general-info .lnr {
-  color: #4DBA87;
+  color: #4dba87;
   margin-right: 6px;
   font-weight: 600;
 }
@@ -2948,7 +3022,7 @@ ul.social-links li:last-child a {
 }
 
 .share-buttons a:hover {
-  color: #4DBA87;
+  color: #4dba87;
 }
 
 .share-buttons a.btn:last-child {
@@ -3265,7 +3339,7 @@ blockquote .small {
 }
 
 .entry-meta.entry-meta-bottom .share-buttons a:hover {
-  color: #4DBA87;
+  color: #4dba87;
 }
 
 .entry-meta.entry-meta-bottom .post-info span {
@@ -3300,7 +3374,7 @@ blockquote .small {
 }
 
 .post-comments .media-footer a:hover {
-  color: #4DBA87;
+  color: #4dba87;
 }
 
 .blog-post-content .divider {
@@ -3477,7 +3551,7 @@ a.post-thumbnail:hover {
 }
 
 .entry-title a:hover {
-  color: #4DBA87;
+  color: #4dba87;
 }
 
 .site-content .entry-header {
@@ -3495,7 +3569,7 @@ a.post-thumbnail:hover {
 }
 
 .entry-meta a:hover {
-  color: #4DBA87;
+  color: #4dba87;
 }
 
 .entry-meta.entry-meta-top > span:after {
@@ -3540,7 +3614,7 @@ a.post-thumbnail:hover {
   font-size: 14px;
   margin: 0 6px 6px 0;
   color: #fff;
-  background-color: #4DBA87;
+  background-color: #4dba87;
   padding: 2px 5px;
 }
 
@@ -3550,7 +3624,7 @@ a.post-thumbnail:hover {
 
 .cat-links li a:hover {
   color: #fff;
-  background-color: #4DBA87;
+  background-color: #4dba87;
 }
 
 .byline {
@@ -3681,7 +3755,7 @@ a.post-thumbnail:hover {
 }
 
 .entry-content .edit-link a:hover {
-  color: #4DBA87;
+  color: #4dba87;
 }
 
 .entry-content .more-link {
@@ -3760,8 +3834,8 @@ a.post-thumbnail:hover {
 }
 
 .page-links a:hover {
-  background: #4DBA87;
-  border: 1px solid #4DBA87;
+  background: #4dba87;
+  border: 1px solid #4dba87;
   color: #fff;
 }
 
@@ -3826,7 +3900,7 @@ a.post-thumbnail:hover {
 }
 
 .image-navigation a:hover {
-  color: #4DBA87;
+  color: #4dba87;
 }
 
 .post-navigation .lm-nav-link {
@@ -3876,7 +3950,7 @@ a.post-thumbnail:hover {
 
 .post-navigation .lm-nav-link a:hover span,
 .post-navigation .lm-nav-link a:hover h5 {
-  color: #4DBA87;
+  color: #4dba87;
 }
 
 /* ======= Paging Navigation ======= */
@@ -3915,12 +3989,12 @@ a.post-thumbnail:hover {
 .paging-navigation .page-numbers.current:hover,
 .paging-navigation .page-numbers.current:focus {
   color: #222;
-  border: 2px solid #4DBA87;
+  border: 2px solid #4dba87;
 }
 
 .paging-navigation a:hover,
 .paging-navigation a:focus {
-  background-color: #4DBA87;
+  background-color: #4dba87;
   color: #fff;
 }
 
@@ -4347,7 +4421,7 @@ a.post-thumbnail:hover {
 }
 
 .calendar_wrap td#today {
-  background-color: #4DBA87;
+  background-color: #4dba87;
   color: #fff;
   padding: 0 3px;
 }
@@ -4484,7 +4558,7 @@ a.post-thumbnail:hover {
 .nothing-found p {
   display: inline-block;
   color: #fff;
-  background-color: #4DBA87;
+  background-color: #4dba87;
   padding: 0 10px;
   font-size: 16px;
 }
@@ -4585,21 +4659,6 @@ a.post-thumbnail:hover {
   -webkit-box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.1);
   box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.1);
-}
-
-.home-page-second-style .home-photo .hp-inner {
-  background-image: url(./assets/img/main_photo.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: auto;
-  display: block;
-  position: absolute;
-  top: -18px;
-  bottom: -18px;
-  width: auto;
-  left: -18px;
-  right: -18px;
 }
 
 .home-page-second-style .home-buttons {
@@ -4728,10 +4787,10 @@ a.post-thumbnail:hover {
 }
 
 .home-page-third-style .home-photo .hp-inner {
-  background-image: url(./assets/img/main_photo.jpg);
+  background-image: url(./assets/img/oliver-scharkowski/oliverScharkowski-002-002.webp);
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   height: auto;
   display: block;
   position: absolute;
@@ -4897,7 +4956,7 @@ a.post-thumbnail:hover {
     top: 0;
     right: 0;
     bottom: 0;
-    background-color: #4DBA87;
+    background-color: #4dba87;
     z-index: 101;
     text-align: center;
     overflow: visible;
@@ -5579,7 +5638,7 @@ a.post-thumbnail:hover {
 
 .skills-first-style .skill-percentage {
   position: absolute;
-  background-color: #4DBA87;
+  background-color: #4dba87;
   -moz-border-radius: 1px;
   -webkit-border-radius: 1px;
   border-radius: 1px;
@@ -5636,7 +5695,7 @@ a.post-thumbnail:hover {
 }
 
 .info-list .title {
-  color: #4DBA87;
+  color: #4dba87;
   margin-right: 5px;
   font-weight: 600;
 }
@@ -5786,8 +5845,8 @@ a.post-thumbnail:hover {
 .testimonials.owl-carousel .owl-nav .owl-next:hover,
 .clients.owl-carousel .owl-nav .owl-prev:hover,
 .clients.owl-carousel .owl-nav .owl-next:hover {
-  background-color: #4DBA87;
-  border-color: #4DBA87;
+  background-color: #4dba87;
+  border-color: #4dba87;
   color: #fff;
 }
 /* --- End of Sliders Nav --- */
@@ -5893,7 +5952,7 @@ a.post-thumbnail:hover {
   font-weight: 400;
   display: block;
   margin: 10px 0;
-  color: #4DBA87;
+  color: #4dba87;
 }
 
 .fun-fact-block-value {
@@ -6058,7 +6117,7 @@ a > .certificate-item:hover {
 
 .knowledges li {
   display: inline-block;
-  background-color: #4DBA87;
+  background-color: #4dba87;
   border-radius: 3px;
   color: #fff;
   padding: 5px 10px;
@@ -6173,7 +6232,7 @@ a > .certificate-item:hover {
 .lm-info-block i {
   position: relative;
   font-size: 33px;
-  color: #4DBA87;
+  color: #4dba87;
   z-index: 1;
 }
 
@@ -6188,7 +6247,7 @@ a > .certificate-item:hover {
   font-weight: 400;
   display: block;
   margin: 10px 0;
-  color: #4DBA87;
+  color: #4dba87;
 }
 
 .lm-info-block .lm-info-block-value:empty {
