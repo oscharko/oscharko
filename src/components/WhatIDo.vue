@@ -83,7 +83,6 @@ l50 49 27 -22 c44 -35 93 -54 122 -47 14 4 57 26 96 50 106 66 198 105 325
                 </g>
               </svg>
             </div>
-
             <div class="ci-text">
               <h4>Produktentwicklung</h4>
               <p>
@@ -247,7 +246,6 @@ c-104 2 -139 0 -142 -10z"
                 </g>
               </svg>
             </div>
-
             <div class="ci-text">
               <h4>Datenanalyse und Statistik</h4>
               <p>
@@ -426,7 +424,6 @@ m-123 -658 c40 -20 62 -58 63 -110 2 -97 -38 -137 -136 -137 -47 0 -61 4 -87
                 </g>
               </svg>
             </div>
-
             <div class="ci-text">
               <h4>Prozessentwicklung</h4>
               <p>

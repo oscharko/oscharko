@@ -76,8 +76,6 @@ export default {
 /* FontAwesome Free Icons Font */
 @import url('./assets/fonts/fontawesome-free-5.12.1-web/css/all.min.css');
 
-@import url('./assets/fonts/linecons/style.css');
-
 /* =============================================================================
 1. General styles
 ============================================================================= */
