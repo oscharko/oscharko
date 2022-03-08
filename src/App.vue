@@ -550,7 +550,7 @@ pre {
   line-height: 1.42857143;
   color: #333;
   word-break: break-all;
-  word-wrap: break-word;
+  word-wrap: normal;
   background-color: #f8f8f8;
   border: 1px solid #d8d8d8;
   border-radius: 5px;
@@ -3115,7 +3115,7 @@ a.post-thumbnail:hover {
   -moz-hyphens: auto;
   -ms-hyphens: auto;
   hyphens: auto;
-  word-wrap: break-word;
+  word-wrap: normal;
 }
 
 .site-content .entry-summary {
@@ -3309,7 +3309,7 @@ a.post-thumbnail:hover {
   -moz-hyphens: auto;
   -ms-hyphens: auto;
   hyphens: auto;
-  word-wrap: break-word;
+  word-wrap: normal;
 }
 
 .post-navigation,
