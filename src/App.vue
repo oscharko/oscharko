@@ -4080,7 +4080,7 @@ a.post-thumbnail:hover {
   color: #aaa;
   font-weight: 300;
   text-transform: uppercase;
-  margin-top: -25px;
+  margin-top: -12px;
   padding-bottom: 20px;
 }
 
@@ -4245,9 +4245,9 @@ a.post-thumbnail:hover {
 }
 
 .home-page-third-style .home-text h1 {
-  font-size: 52px;
+  font-size: 42px;
   font-weight: 700;
-  line-height: 1.3;
+  line-height: 1.0;
   margin-top: 0;
   margin-bottom: 20px;
 }
