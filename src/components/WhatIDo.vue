@@ -89,7 +89,7 @@ l50 49 27 -22 c44 -35 93 -54 122 -47 14 4 57 26 96 50 106 66 198 105 325
               <p>
                 Als studierter Ingenieur habe ich ein umfangreiches technisches
                 Wissen. Durch zahlreiche Patente ist belegt, dass ich dieses
-                Wissen lösungsorientiert Anwenden kann.
+                Wissen lösungsorientiert anwenden kann.
               </p>
             </div>
           </div>
@@ -252,7 +252,7 @@ c-104 2 -139 0 -142 -10z"
               <h4>Datenanalyse und Statistik</h4>
               <p>
                 Maschinen- und Prozessfreigaben mittels Fähigkeitsindex sowie
-                Statistische Prozesslenkung mittels Regelkarten beherrsche ich
+                statistische Prozesslenkung mittels Regelkarten beherrsche ich
                 sicher.
               </p>
             </div>
@@ -428,7 +428,7 @@ m-123 -658 c40 -20 62 -58 63 -110 2 -97 -38 -137 -136 -137 -47 0 -61 4 -87
             </div>
 
             <div class="ci-text">
-              <h4>Prozesstwicklung</h4>
+              <h4>Prozessentwicklung</h4>
               <p>
                 Ich bin in der Lage, in der Produktentwicklung an die
                 Herstellung zu denken und in einem agilen iterativen Prozess die
@@ -563,9 +563,9 @@ l-7 -40 -82 0 -83 0 -9 42 c-7 35 -15 46 -44 60 -34 16 -36 16 -75 -7 l-40
             <div class="ci-text">
               <h4>Künstliche Intelligenz</h4>
               <p>
-                Mit fundierten Kenntnissen in der Künstliche Intelligenz, bin
-                ich in der Lage Probleme im Prozess frühzeitig zu erkenne um zu
-                agieren und nicht zu reagieren.
+                Mit fundierten Kenntnissen in der Künstlichen Intelligenz, bin
+                ich in der Lage Probleme im Prozess frühzeitig zu erkennen um zu
+                agieren und nicht nur zu reagieren.
               </p>
             </div>
           </div>
