@@ -1,11 +1,11 @@
 <template>
   <header id="site_header" class="header">
     <div class="header-content">
-      <div class="menu-button">
+      <!-- <div class="menu-button">
         <span></span>
         <span></span>
         <span></span>
-      </div>
+      </div> -->
       <div class="header-titles">
         <a href="#">
           <img width="50" src="@/assets/safari-pinned-tab.svg" alt="image" />
