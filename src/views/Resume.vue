@@ -17,10 +17,10 @@
               <span class="item-company">Hochschule Lausitz</span>
               <h4 class="item-title">Maschinenbau B.Eng.</h4>
               <p>
-                Nach kurzer orientierungsphase im Studiengang
-                Wirtschaftsingenieurwesen, entschloss in mich nach dem 2
-                Semester für den Studiengang Maschinenbau und schloss diesen
-                erfolgreich 2013 ab.
+                Nach kurzer Orientierungsphase im Studiengang
+                Wirtschaftsingenieurwesen, entschloss ich mich nach dem
+                2.Semester für den Studiengang Maschinenbau und schloss diesen
+                2013 erfolgreich ab.
               </p>
             </div>
 
@@ -42,7 +42,7 @@
               <p>
                 Die Berufsausbildung zum Elektroinstallateur mit erfolgreicher
                 Gesellenprüfung der Handwerkskammer Cottbus, legte das
-                technische Fundamet.
+                technische Fundament.
               </p>
             </div>
           </div>
@@ -71,7 +71,7 @@
               <span class="item-company">Auto-Kabel Management GmbH</span>
               <h4 class="item-title">Team Leader Innovation Center</h4>
               <p>
-                Leitung eins Teams für die Entwicklung von Produkten und
+                Leitung eines Teams für die Entwicklung von Produkten und
                 Produktionsprozessen für die Elektromobilität.
                 Produktionsprozesse mit Schwerpunkt Fügetechnik und
                 Qualitätssicherung mittels Künstlicher Intelligenz.
