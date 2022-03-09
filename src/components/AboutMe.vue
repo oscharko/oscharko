@@ -12,7 +12,7 @@
           <div class="col-sm-12 col-md-6 col-lg-6">
             <div class="home-text">
               <h1>
-                <span>Oliver Scharkowski</span>
+                <span class="about-me-name">Oliver Scharkowski</span>
               </h1>
               <div class="home-text-subtitle">
                 <div class="owl-carousel text-rotation">
@@ -60,4 +60,7 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
+.about-me-name {
+  hyphens: none !important;
+}
 </style>
