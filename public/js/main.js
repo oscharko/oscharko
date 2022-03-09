@@ -1,10 +1,3 @@
-/*
-* Template Name: Alan - Responsive vCard Template
-* Author: lmpixels
-* Author URL: http://themeforest.net/user/lmpixels
-* Version: 1.0.0
-*/
-
 (function($) {
 "use strict";
     var body = $('body');
@@ -125,7 +118,7 @@
                 portfolio_grid = $('#' + portfolio_grid_container_id + ' .portfolio-grid'),
                 portfolio_filter = $('#' + portfolio_grid_container_id + ' .portfolio-filters'),
                 portfolio_filter_item = $('#' + portfolio_grid_container_id + ' .portfolio-filters .filter');
-                
+
             if (portfolio_grid) {
 
                 portfolio_grid.shuffle({
@@ -459,7 +452,7 @@
             var mpLink = $('.home-bgvideo').attr('data-videomp'),
             webmLink = $('.home-bgvideo').attr('data-videowebm'),
             imgLink = $('.home-bgvideo').attr('data-img'),
-            
+
             videoBackground = new vidbg('.home-bgvideo', {
                 mp4: mpLink,
                 webm: webmLink,
