@@ -6,11 +6,12 @@
         <span></span>
         <span></span>
       </div>
-      <!-- <div class="header-titles">
-        <a href="/">
+      <div class="header-titles">
+        <BackToPreviousPage />
+        <!-- <a href="/">
           <img width="50" src="@/assets/safari-pinned-tab.svg" alt="image" />
-        </a>
-      </div> -->
+        </a> -->
+      </div>
     </div>
     <div class="site-menu profile-card-on flex-v-align dl-menuwrapper">
       <div class="profile-card flex-v-align">
@@ -148,7 +149,7 @@ c-17 -16 -44 -32 -62 -36 -41 -8 -1527 -8 -1568 0 -18 4 -45 20 -62 36 l-29
       </div>
       <ul class="alan-classic-menu main-menu dl-menu dl-menuopen">
         <li class="menu-item">
-          <a href="/">Home</a>
+          <a href="/">Oliver Scharkowski</a>
         </li>
         <li class="menu-item">
           <a href="Resume">Lebenslauf</a>
@@ -162,9 +163,11 @@ c-17 -16 -44 -32 -62 -36 -41 -8 -1527 -8 -1568 0 -18 4 -45 20 -62 36 l-29
 </template>
 
 <script>
+import BackToPreviousPage from '@/components/utils/BackToPreviousPage.vue'
+
 export default {
   name: 'SiteHeader',
-  components: {}
+  components: { BackToPreviousPage }
 }
 </script>
 
