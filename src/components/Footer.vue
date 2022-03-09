@@ -114,7 +114,7 @@ c-17 -16 -44 -32 -62 -36 -41 -8 -1527 -8 -1568 0 -18 4 -45 20 -62 36 l-29
     </div>
 
     <div class="footer-copyrights">
-      <p>© 2022 all rights reserved by oscharko</p>
+      <p>© 2022 | created by oscharko</p>
     </div>
   </footer>
 </template>
