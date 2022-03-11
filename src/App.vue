@@ -1,7 +1,7 @@
 <template>
   <div class="page-wrapper bg-move-effect">
     <div class="page-content site-content">
-      <SiteHeader />
+      <Header />
       <!-- start page content -->
       <div
         class="content-area single-page-area"
@@ -20,13 +20,13 @@
 </template>
 
 <script>
-import SiteHeader from '@/components/SiteHeader.vue'
+import Header from '@/components/Header.vue'
 import Footer from '@/components/Footer.vue'
 
 export default {
   name: 'App',
   components: {
-    SiteHeader,
+    Header,
     Footer
   }
 }
