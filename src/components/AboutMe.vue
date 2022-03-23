@@ -14,7 +14,7 @@
               <h1>
                 <span class="about-me-name">Oliver Scharkowski</span>
               </h1>
-              <div class="home-text-subtitle">
+              <!-- <div class="home-text-subtitle">
                 <div class="owl-carousel text-rotation">
                   <div class="item">
                     <span>Maschinenbauingenieur</span>
@@ -32,7 +32,7 @@
                     <span>Kenntnisse in der Backend-Entwicklung</span>
                   </div>
                 </div>
-              </div>
+              </div> -->
               <p>
                 Ich bin ein Mensch der seine Welt verstehen will und sie nicht
                 nur als gegeben hinnimmt, ein Mensch der davon überzeugt ist das
