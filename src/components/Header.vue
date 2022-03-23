@@ -7,6 +7,9 @@
           <span></span>
           <span></span>
         </div>
+        <div class="header-titles">
+          <BackToPreviousPage />
+        </div>
       </div>
       <div class="site-menu profile-card-on flex-v-align dl-menuwrapper">
         <div class="profile-card flex-v-align">
@@ -69,9 +72,11 @@
 </template>
 
 <script>
+import BackToPreviousPage from '@/components/utils/BackToPreviousPage.vue'
+
 export default {
   name: 'Header',
-  components: {}
+  components: { BackToPreviousPage }
 }
 </script>
 
