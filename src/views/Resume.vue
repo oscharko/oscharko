@@ -53,7 +53,7 @@
 
           <div class="timeline clearfix">
             <div class="timeline-item clearfix">
-              <h5 class="item-period highlighted">12.2019 - heute</h5>
+              <h5 class="item-period highlighted">12.2019 - 03.2022</h5>
               <span class="item-company">Gubener Plastinate GmbH</span>
               <h4 class="item-title">
                 Bereichsleiter Innovationsmanagement und Projekte
