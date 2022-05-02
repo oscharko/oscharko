@@ -59,10 +59,13 @@
                 Bereichsleiter Innovationsmanagement und Projekte
               </h4>
               <p>
-                Erschließung neuer digitaler Möglichkeiten für das Unternehmen
+                Erschließung neuer digitaler Möglichkeiten für das Unternehmen
                 in den Bereichen Vertrieb, Marketing und Produktportfolio.
-                Umsetzung gefundener und wirtschaftlich sinnvoller Möglichkeiten
-                mit den entsprechenden Fachabteilungen.
+                Umsetzung der gefundenen und wirtschaftlich sinnvollen
+                Möglichkeiten mit den entsprechenden Fachabteilungen.
+                Unterschiedliche Entwicklungen und Programmiertätigkeiten in den
+                Bereichen Front- und Backend für öffentliche und interne
+                Applikationen.
               </p>
             </div>
 
