@@ -1,4 +1,4 @@
-# oscharko
+# oscharko [Configuration Reference](https://oscharko.vercel.app/).
 
 ## Project setup
 ```
