@@ -3,7 +3,7 @@
     <div class="footer-social">
       <ul class="footer-social-links">
         <li>
-          <a href="mailto:scharkowski.oliver@web.de" target="_blank">
+          <a href="mailto:o.scharkowski@oscharko.de" target="_blank">
             <inline-svg
               src="./img/svg/mail-001.svg"
               width="30"
