@@ -1,4 +1,4 @@
-# [oscharko](https://oscharko.vercel.app/)
+# [oscharko](https://oscharko.com/app)
 
 ## Project setup
 ```
