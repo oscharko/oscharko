@@ -1,4 +1,4 @@
-# [oscharko](https://oscharko.com/app)
+# [oscharko](https://oscharko.de)
 
 ## Project setup
 ```
