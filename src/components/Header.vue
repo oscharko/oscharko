@@ -40,7 +40,7 @@
                 </li>
                 <li>
                   <a
-                    href="https://www.linkedin.com/in/oscharko"
+                    href="https://oscharko.com/linkedin"
                     target="_blank"
                   >
                     <inline-svg

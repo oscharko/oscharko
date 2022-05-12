@@ -13,7 +13,7 @@
           </a>
         </li>
         <li>
-          <a href="https://www.linkedin.com/in/oscharko" target="_blank">
+          <a href="https://oscharko.com/linkedin" target="_blank">
             <inline-svg
               src="./img/svg/linkedin-001.svg"
               class="svg-footer"
