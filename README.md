@@ -20,9 +20,11 @@ Steve Jobs
   <span>&nbsp;&nbsp;</span>
   <a href="https://oscharko.me/linkedin" target="_blank"><img src="https://oscharko.de/img/git/linkedin.svg" width="48"></a>
   <span>&nbsp;&nbsp;</span>
-  <a href="https://oscharko.me/xing" target="_blank"><img src="https://oscharko.de/img/git/xing.svg" width="48"></a>
-  <span>&nbsp;&nbsp;</span>
   <a href="https://oscharko.me/leet-code" target="_blank"><img src="https://oscharko.de/img/git/leetcode.svg" width="48"></a>
+  <span>&nbsp;&nbsp;</span>
+  <a href="https://oscharko.me/replit" target="_blank"><img src="https://oscharko.de/img/git/replit.svg" width="48"></a>
+  <span>&nbsp;&nbsp;</span>
+  <a href="https://oscharko.me/xing" target="_blank"><img src="https://oscharko.de/img/git/xing.svg" width="48"></a>
 </div>
 
 <div align="center">
