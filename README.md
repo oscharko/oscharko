@@ -27,8 +27,3 @@ Steve Jobs
   <a href="https://oscharko.me/xing" target="_blank"><img src="https://oscharko.de/img/git/xing.svg" width="48"></a>
 </div>
 
-<div align="center">
-  <a href="https://oscharko.me/schedule" target="_blank"><img src="https://oscharko.de/img/git/calendar.svg"
-      width="500"></a>
-</div>
-
