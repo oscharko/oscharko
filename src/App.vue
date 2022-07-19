@@ -36,7 +36,7 @@ export default {
 /* =============================================================================
 <router-view />
 1. General styles (Buttons, Inputs, Typography)
-2. Page loadig animation
+2. Page loading animation
 3. Page container
 4. Site header (Panel with logo & navigation)
 5. Site content
